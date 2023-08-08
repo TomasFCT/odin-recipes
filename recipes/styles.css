@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #3B40EF;
+    color: white;
+}
+
+.title {
+    font-weight: bolder;
+    color: #EF9A0E;
+}
+
+.imagen {
+    width: 400px;
+    height: auto;
+}
+
+.p {
+    color: white;
+}
+
+.link {
+    background-color: #3B40EF;
+    color: #EF9A0E;
+    font-weight: bold;
+}

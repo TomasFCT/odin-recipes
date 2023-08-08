@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    background-color: #3B40EF;
+}
+
+.title  {
+    font-weight: bolder;
+    color: #EF9A0E;
+}
+
+.p {
+    color: white;
+}
+
+.links  {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #EF9A0E;
+}
+
+.firma {
+    font-size: xx-small;
+    color: greenyellow;
+}
